@@ -9,4 +9,6 @@ This repository contains the submissions and solutions to the assignments and qu
 
 ### Lab 1 - C Programming Revision  
 
+### Lab 2 - C++ Programming Assignment  
+
 Open each lab folder to view the questions and corresponding solutions.
