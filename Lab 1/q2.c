@@ -2,7 +2,6 @@
 
 int main(){
     int arr[50], n, i;
-    float avg;
 
     printf("Enter number of elements: ");
     scanf("%d", &n);
