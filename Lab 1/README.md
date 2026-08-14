@@ -1,4 +1,4 @@
-# Lab 1 questions
+# Lab 1 Questions
 
 ### 1. Array Statistics   
 Write a program to accept N integers in an array and display: 

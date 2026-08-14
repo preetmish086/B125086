@@ -11,4 +11,6 @@ This repository contains the submissions and solutions to the assignments and qu
 
 ### Lab 2 - C++ Programming Assignment  
 
+### Lab 3 - Dynamic Memory Allocation
+
 Open each lab folder to view the questions and corresponding solutions.
