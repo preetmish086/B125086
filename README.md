@@ -13,6 +13,8 @@ This repository contains the submissions and solutions to the assignments and qu
 
 ### Lab 3 - Dynamic Memory Allocation  
 
-### Lab 4 - Friend Function and Friend Class
+### Lab 4 - Friend Function and Friend Class  
+
+### Lab 5 - Function Overloading
 
 Open each lab folder to view the questions and corresponding solutions.
