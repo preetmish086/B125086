@@ -34,25 +34,25 @@ Hint: Use the array and its size as parameters. The third version should contain
 
 ### 5. Swap Values   
 Create overloaded functions named swapData() to swap values in the following cases:   
-• Swaptwointeger values using references.   
-• Swaptwofloating-point values using references.   
-• Swaptwointeger values using pointers.   
+• Swap two integer values using references.   
+• Swap two floating-point values using references.   
+• Swap two integer values using pointers.   
 Display the values before and after swapping.   
 Hint: Observe how the parameter types differ when references and pointers are used.   
 
 ### 6. String Information   
 Create overloaded functions named information() to perform the following operations:   
-• Findthe length of a character array.   
-• Countthe occurrence of a specified character in a character array.   
-• Counttheoccurrence of aspecified character within the first k positions of a character array.   
+• Find the length of a character array.   
+• Count the occurrence of a specified character in a character array.   
+• Count the occurrence of a specified character within the first k positions of a character array.   
 Display the result of each operation.   
 Hint: Use the additional parameter in the third function to specify how many positions should be examined.   
 
 ### 7. Nearest Value   
 Create overloaded functions named nearValue() to determine:   
-• Whichoftwointegers is closer to zero.   
-• Whichoftwofloating-point values is closer to zero.   
-• Whichelement of an integer array is closest to zero.   
+• Which of two integers is closer to zero.   
+• Which of two floating-point values is closer to zero.   
+• Which element of an integer array is closest to zero.   
 Display the selected value in each case.   
 Hint: For the array version, pass the array along with its size. You may use the absolute value of a number to compare its distance from zero.   
 
