@@ -35,7 +35,7 @@ class SensorGrid{
     }
     friend void compare(SensorGrid &a, SensorGrid &b);
     ~SensorGrid() {
-      //  delete[] temp;
+      delete[] temp;
     }
 };
 void compare(SensorGrid &a, SensorGrid &b) {
